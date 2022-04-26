@@ -1,0 +1,10 @@
+{
+    "primary":"#333333",
+    "inputPrimary":"#1a8cff",
+    "inputDisabled":"#8c8c8c",
+    "contentBorder":"#b30000",
+    "Scrool":"#2222",
+    "dialogBoxColor":"#808080",
+    "colorDialogAnswer":"#005ce6",
+    "colorDialogQuestion":"#0d0d0d"
+}
